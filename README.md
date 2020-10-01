@@ -1,8 +1,7 @@
-# javascript-helper-fn
+# Javascript Util Functions
 
 
 ### FUNCTION
-Util Functions
 ```sh
 isNull(obj: any): boolean;
 isMandatoryFieldNull(obj: any): boolean;
