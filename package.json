@@ -1,6 +1,6 @@
 {
   "name": "javascript-helper-fn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Common utility function use in daily code",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
@@ -17,6 +17,14 @@
       "email": "sunil.patel@siliconveins.com"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chill-patel/javascript-helper-fn"
+  },
+  "bugs": {
+    "url": "https://github.com/chill-patel/javascript-helper-fn/issues"
+  },
+  "homepage": "https://github.com/chill-patel/javascript-helper-fn",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.20"
