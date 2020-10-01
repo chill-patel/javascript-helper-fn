@@ -1,6 +1,6 @@
 {
   "name": "javascript-helper-fn",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Common utility function use in daily code",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
